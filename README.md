@@ -34,6 +34,7 @@ The analysis of the elction show that:
 
 ## Challenge Overview
 - Here is a screenshot of the script that I ran and showing all the results written above.
-
+![image](https://user-images.githubusercontent.com/92328984/141043848-9e686eb9-747b-4d61-b69f-7c01427c9f1b.png)
 
 ## Challenge Summary
+The code for this election was specific for counties and elected officials. However, this script can be used in a broader scheme of things, like dividing up in age groups and who they voted for. Or, it could be used for looking into the lowest turn out counties so that the governed body can encourage those counties to vote for next election.
